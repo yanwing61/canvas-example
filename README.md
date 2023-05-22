@@ -1,6 +1,6 @@
 # canvas example
 
-Using <canvas> tag in HTML and javascript to create an interactive animation.
+Using HTML `<canvas>` tag and javascript to create an interactive animation inspired by Jackson Pollock Deconstruction.
   
 live site: <https://yanwing61.github.io/canvas-example/>
 
